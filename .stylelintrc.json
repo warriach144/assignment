@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "declaration-block-no-duplicate-properties":true,
     "no-duplicate-selectors":true,
@@ -6,3 +7,13 @@
     "selector-type-case":true,
     "block-no-empty":true
   }
+=======
+{
+  "declaration-block-no-duplicate-properties":true,
+  "no-duplicate-selectors":true,
+  "property-case":true,
+  "value-keyword-case":true,
+  "selector-type-case":true,
+  "block-no-empty":true
+}
+>>>>>>> 9ef17667e4dfd97c2cea0f80d38aa4828eaeb4cf
