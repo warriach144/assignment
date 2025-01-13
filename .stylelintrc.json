@@ -1,0 +1,8 @@
+{
+  "declaration-block-no-duplicate-properties":true,
+  "no-duplicate-selectors":true,
+  "property-case":true,
+  "value-keyword-case":true,
+  "selector-type-case":true,
+  "block-no-empty":true
+}
